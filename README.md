@@ -1,4 +1,4 @@
-# Programmertheorie (Heuristieken): Protein Pow(d)er
+# Programmeertheorie (Heuristieken): Protein Pow(d)er
 
 Teamleden: Nienke, Moussa, Jason  
 Begeleiders: Mayla, Joos  
